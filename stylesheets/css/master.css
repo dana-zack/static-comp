@@ -35,7 +35,7 @@ nav {
 header {
   display: flex;
   flex-direction: column;
-  background-image: url(/images/park.jpg);
+  background-image: url("../../images/park.jpg");
   background-size: 735px;
   align-items: center;
 }
